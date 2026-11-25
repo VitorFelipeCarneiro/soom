@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Arquivos do usuário (ficam em %LOCALAPPDATA%\Soom, nunca no repositório)
+config.json
+*.log
+*.ico
+*.lnk
+
+# Pacote de download (gerado para cada versão e anexado na página de Releases)
+dist/
